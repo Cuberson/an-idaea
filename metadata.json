@@ -1,0 +1,6 @@
+{
+  "name": "an idea",
+  "description": "Local-first Rust + Tauri 2 idea workbench with drag-and-drop task planning and dual-model Ollama AI (embeddings + reasoning).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
